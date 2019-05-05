@@ -16,7 +16,7 @@ import java.io.PrintStream;
 public class ItemAddActivity extends AppCompatActivity {
     private EditText txtname,txtprice,txtimage,txtdesc;
     private Button btnadd;
-
+//code
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
